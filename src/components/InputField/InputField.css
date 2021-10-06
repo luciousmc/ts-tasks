@@ -33,3 +33,13 @@
   color: white;
   box-shadow: 0 0 10px black;
 }
+
+.inputField__formSubmit:hover {
+  background-color: #388ae2;
+  cursor: pointer;
+}
+
+.inputField__formSubmit:active {
+  transform: scale(0.8);
+  box-shadow: 0 0 5px #000;
+}
